@@ -1,4 +1,7 @@
-
+# sbt
+bin/
+project/
+build/
 
 
 # CMake
